@@ -2,7 +2,8 @@ import styles from "./index.module.css"
 
 const App = () => {
   const handleRedirect = () => {
-    window.location.href = "https://www.google.com"
+    window.location.href =
+      "https://docs.google.com/document/d/1VbRGsf-39gTTFWbApv9aCJb9SkDoAN5zqkBS_O5Q-ps/edit?usp=sharing"
   }
 
   return (
