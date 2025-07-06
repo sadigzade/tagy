@@ -11,7 +11,7 @@ const App = () => {
       <button
         className={styles.button}
         onClick={handleRedirect}>
-        Click me
+        ТЫ ЧОРТ
       </button>
     </div>
   )
