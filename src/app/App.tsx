@@ -10,7 +10,7 @@ const App = () => {
       </a>
       <a
         className={styles.link}
-        href="https://disk.yandex.ru/edit/d/hKGlMpiwG16w24Gac7zP_iPegnqahzm72s0qoIz-cKg6TndIN01BMzcwQQ">
+        href="https://disk.yandex.ru/edit/d/ByvnFLLarJK3_nuNJ4CojyPegnqahzm72s0qoIz-cKg6Qk9ZZWx2VFVWdw">
         Yandex
       </a>
     </div>
